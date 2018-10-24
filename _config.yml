@@ -1,6 +1,6 @@
 # Site settings 配置站点
 title: '顿刚的博客'
-description: '抓住时间的缝隙，己住生命的记录。'
+description: '抓住时间的缝隙，填满生命的记录。'
 keyword: '顿刚'
 url: 'http://dungang.site' # your host
 
@@ -19,7 +19,7 @@ footer:
 # Author 配置博主信息
 author: '顿刚'
 nickname: 'dungang'
-bio: '敏捷项目PCA Java PHP'
+bio: 'PMI敏捷管理认证'
 avatar: '/assets/img/profile.png'
 
 # Search
@@ -31,7 +31,7 @@ nightMode: true
 # Comments 评论功能
 comments:
   disqus: false
-  disqus_url: 'https://ldungang.disqus.com/embed.js'
+  disqus_url: 'https://dungang.disqus.com/embed.js'
 
 # MathJax 公式支持 by Ray-Eldath
 mathjax: true
